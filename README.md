@@ -26,6 +26,22 @@ pip install jupyter notebook
 pip install gradio
 conda install gradio
 ```
+- TensorFlow
+```
+pip install tensorflow
+conda install tensorflow
+```
+- Keras
+```
+! pip install keras
+```
+## How to use this project
+- ทำการ Dowload ไฟล์ repository ของเราไปนี้ไปไว้ในเครื่องของคุณ
+- ทำการ Dowload DataSet ได้จากลิ้ง Google Drive ที่เราได้มอบไว้ให้
+- ติดตั้ง Tool และ Library เบื้องต้นที่เราใช้  ได้ตามหัวข้อ Tool and Library used & Install 
+- ทำการนำไฟล์ Fish_Classification_AI.ipynb ทีท่านได้โหลดไปนำไป import ใน Jupyter Notebook หรือ Tool ที่ท่านใช้ทำงาน phython 
+## How to call File from your pc
+
 
 
 
