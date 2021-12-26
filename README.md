@@ -16,12 +16,16 @@ Dataset รูปปลาสวยงาม 5 ชนิดทั้งหมด
 - guppy_fish : รูปภาพปลาหางนกยูง 96 ภาพ
 
 ##Tool and Library used & Install 
-```
+
 - Jupyter Nootebook
+```
 pip install jupyter notebook 
+```
 - Gradio
+```
 pip install gradio
 conda install gradio
-
-
 ```
+
+
+
