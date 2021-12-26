@@ -40,7 +40,12 @@ conda install tensorflow
 - ทำการ Dowload DataSet ได้จากลิ้ง Google Drive ที่เราได้มอบไว้ให้
 - ติดตั้ง Tool และ Library เบื้องต้นที่เราใช้  ได้ตามหัวข้อ Tool and Library used & Install 
 - ทำการนำไฟล์ Fish_Classification_AI.ipynb ทีท่านได้โหลดไปนำไป import ใน Jupyter Notebook หรือ Tool ที่ท่านใช้ทำงาน phython 
-## How to call File from your pc
+## How to call DataSet File from your pc
+![alt text](https://github.com/Naphat2543/Fish-Classification-AI/blob/main/img/Capture.PNG)
+- จากภาพด้านบนท่านสามารถนำ path ที่ไฟล์ Dataset ของท่านตั้งอยู่มาใส่ได้ในตัวแปร DATADIR
+## References
+[Tensorflow image classification](https://www.tensorflow.org/tutorials/images/classification)
+
 
 
 
