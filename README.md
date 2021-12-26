@@ -14,3 +14,14 @@ Dataset รูปปลาสวยงาม 5 ชนิดทั้งหมด
 - dragon_fish : รูปภาพปลามังกร 68 ภาพ
 - gold_fish : รูปภาพปลาทอง 89 ภาพ
 - guppy_fish : รูปภาพปลาหางนกยูง 96 ภาพ
+
+##Tool and Library used & Install 
+```
+- Jupyter Nootebook
+pip install jupyter notebook 
+- Gradio
+pip install gradio
+conda install gradio
+
+
+```
